@@ -43,20 +43,15 @@
 
 # 💻 Tech Stack
 
-<p align="center">
 
-<img src="https://skillicons.dev/icons?i=cpp,c,java,python,javascript,typescript"/>
-
-<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,nodejs,express"/>
-
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres"/>
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman"/>
-
-<img src="https://skillicons.dev/icons?i=aws,docker,linux"/>
-
-</p>
-
+| Category | Technologies |
+|----------|--------------|
+| 💻 Languages | <img src="https://skillicons.dev/icons?i=cpp,c,java,python,javascript"/> |
+| 🎨 Frontend | <img src="https://skillicons.dev/icons?i=html,css,react,tailwind"/> |
+| ⚙️ Backend | <img src="https://skillicons.dev/icons?i=nodejs,express"/> |
+| 🗄️ Database | <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres"/> |
+| ☁️ Cloud | <img src="https://skillicons.dev/icons?i=aws,docker"/> |
+| 🛠 Tools | <img src="https://skillicons.dev/icons?i=git,github,vscode,postman"/> |
 ---
 
 # 🚀 Featured Projects
