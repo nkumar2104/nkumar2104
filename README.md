@@ -9,12 +9,12 @@
 
 ## 💫 About Me
 
-- 🌱 Currently learning **System Design & Cloud**
-- 💻 Passionate about **Full Stack Development**
-- 🚀 Love building scalable web applications
-- 📚 Solved **300+ DSA Problems**
-- ⚡ Interested in **Backend Development & AI**
-- 🎯 Goal: Become a Software Development Engineer
+- 💼 Full Stack Developer specializing in the **MERN Stack**.
+- 🌱 Currently learning **System Design** and **Cloud Computing**.
+- ⚙️ Passionate about building scalable, secure, and user-centric web applications.
+- 🧩 Strong foundation in **DSA, OOP, DBMS, Operating Systems, and Computer Networks**.
+- 🚀 Continuously improving problem-solving and software engineering skills.
+- 🎯 Seeking opportunities as a **Software Development Engineer (SDE)**.
 
 ---
 
@@ -91,79 +91,24 @@ A MERN application for reporting civic issues.
 - Search & Filter
 
 ---
-
-# 📈 GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&row=1&column=7"/>
-</p>
-
----
-
-# 📊 Contribution Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night"/>
-</p>
-
----
-
-# 🐍 Contribution Snake
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg"/>
-</p>
-
 ---
 
 # 💻 Coding Profiles
 
 <p align="center">
 
-<a href="https://leetcode.com/YOUR_USERNAME">
-<img src="https://leetcard.jacoblin.cool/YOUR_USERNAME?theme=dark&font=Poppins"/>
+<a href="https://leetcode.com/nikk21">
+<img src="https://leetcard.jacoblin.cool/nikk21?theme=dark&font=Poppins"/>
 </a>
 
-</p>
+<br><br>
 
----
 
-## ☕ Random Dev Quote
 
-<p align="center">
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
-</p>
-
----
-
-## 👀 Visitor Count
+<h3 align="center">⭐ Thanks for visiting my profile!</h3>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
+Let's build something amazing together 🚀
 </p>
-
----
-
-<p align="center">
-
-### ⭐ Thanks for visiting my profile!
-
-**Let's build something amazing together 🚀**
 
 </p>
