@@ -20,28 +20,25 @@
 
 ## 🌐 Connect with Me
 
-<p align="left">
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
-<img src="https://skillicons.dev/icons?i=linkedin" width="48"/>
-</a>
+## 🌐 Connect with Me
 
-<a href="https://github.com/YOUR_USERNAME">
-<img src="https://skillicons.dev/icons?i=github" width="48"/>
-</a>
-
-<a href="mailto:YOUR_EMAIL">
-<img src="https://skillicons.dev/icons?i=gmail" width="48"/>
-</a>
-
-<a href="https://leetcode.com/YOUR_USERNAME">
-<img src="https://cdn.simpleicons.org/leetcode/FFA116" width="48"/>
-</a>
-
-<a href="https://www.geeksforgeeks.org/user/YOUR_USERNAME">
-<img src="https://cdn.simpleicons.org/geeksforgeeks/2F8D46" width="48"/>
-</a>
+<p align="center">
+  <a href="https://linkedin.com/in/nikhilkr2104">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/nkumar2104">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="mailto:nikhil.kr2104@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://leetcode.com/nikk21">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+  </a>
+  <a href="https://www.geeksforgeeks.org/user/nikhilkgpht">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+  </a>
 </p>
-
 ---
 
 # 💻 Tech Stack
