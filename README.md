@@ -2,7 +2,7 @@
 <h3 align="center">🚀 MERN Stack Developer | AI Enthusiast | Software Engineer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=MERN+Stack+Developer;Software+Engineer;Full+Stack+Web+Developer;300%2B+DSA+Problems+Solved;Always+Learning+New+Technologies" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=MERN+Stack+Developer;Software+Engineer;Full+Stack+Web+Developer;Always+Learning+New+Technologies" />
 </p>
 
 ---
